@@ -26,6 +26,12 @@ Connect to the BashLab server using SSH:
 ssh level0@154.114.57.225
 ```
 
+```
+password: 12345
+```
+
+You will then be asked to enter an email address and token. This you should have received when registered for the course.
+
 Start Your Journey: Once logged in, you will be placed in level 0. Read the instructions in the `README.md` file in each level to find the password to the next level.
 
 Once you have found the password to the next level, logout and ssh to the next level, for example:
