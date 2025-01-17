@@ -41,3 +41,17 @@ ssh level1@154.114.57.225
 ```
 
 Happy Bashing!
+
+# Bashcrawl
+
+If you want to try another bash learning environment, try bashcrawl. Also set around a game environment.
+
+Open up your bash terminal and git clone the following:
+
+git clone https://gitlab.com/slackermedia/bashcrawl.git bashcrawl
+
+Then cd into the bashcrawl directory.
+
+Read the README.me file and start the game!
+
+FYI - for mac users you may have an issue with some of the files. Have a look at this for help: https://gitlab.com/slackermedia/bashcrawl
